@@ -1,40 +1,20 @@
 # DataAnalystProject
-# GitHub Profile Views Counter
 
-![GitHub Profile Views Counter](https://user-images.githubusercontent.com/1849174/87816378-dfce8480-c86f-11ea-9ac0-2f7907e1d9d4.png)
-
-<p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
-<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
-</p>
 
 ## Introduction
+Hello! Welcome to my project, this is my profile
 
-Try [Ÿ HŸPE] service as the more robust and feature rich solution.
 
-GHPVС project is proof of concept. This counter designed to be an analytical instrument for you, but not for people who are visiting your profile.
-It could be used to see profile views dynamics as result of development activity, blogging or taking part in a conference.
+![antonkomarev-profile-views-counter](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/892b1e25-88e1-4485-a345-fb80de089fe9)
+## Power BI software
+In this project , we will you Power BI to analyze
+![](https://icons8.com/icon/qYfwpsRXEcpc/power-bi)
+## Steps to complete this project
 
-It counts how many times your GitHub profile has been viewed and displays them in your profile, for free.
 
-![antonkomarev-profile-views-counter](https://user-images.githubusercontent.com/1849174/88077155-9ccc2400-cb83-11ea-8d9c-d18a8b1dc297.png)
+### 1. Data processing
 
-## Usage
-
-Cloud solution launched as 100% free experience. [Help me cut server costs] if you like this service.
-
-If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
-without spamming our server. Everybody knows that any counters could be faked.
-
-> A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
-
-### Create GitHub profile repository
-
-GitHub magic will happen as soon as you will create a new repository named equally to your username.
-
-![secret-profile-repository](https://user-images.githubusercontent.com/1849174/87852702-f24acb80-c90c-11ea-8247-90ae7de0954d.png)
-
-[Live demo] of [my profile repository].
+- In this step, we have to clean
 
 ### Add counter to GitHub profile
 
