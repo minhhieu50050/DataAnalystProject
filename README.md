@@ -12,7 +12,7 @@ In this project , we will you Power BI to analyze
 
 ![image](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/0b49f9f8-554b-4966-80e5-48a047303eda)
 
-## Steps to complete this project
+## The key metrics
 
 
 ### 1. Data processing
