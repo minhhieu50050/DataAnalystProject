@@ -12,7 +12,7 @@ Here is my profile:
 
 ![antonkomarev-profile-views-counter](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/892b1e25-88e1-4485-a345-fb80de089fe9)
 
-
+### ABOUT THE PROJECT
 ## The key metrics by using DAX 
 ![image](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/f4b99569-7483-4724-a851-af10607ef917)
 
