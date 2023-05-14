@@ -8,13 +8,16 @@ Hello! Welcome to my project, this is my profile
 ![antonkomarev-profile-views-counter](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/892b1e25-88e1-4485-a345-fb80de089fe9)
 ## Power BI software
 In this project , we will you Power BI to analyze
-![](https://icons8.com/icon/qYfwpsRXEcpc/power-bi)
+
+
+![image](https://github.com/minhhieu50050/DataAnalystProject/assets/127848363/0b49f9f8-554b-4966-80e5-48a047303eda)
+
 ## Steps to complete this project
 
 
 ### 1. Data processing
 
-- In this step, we have to clean
+- In this step, we have to clean by using data pivot in Power BI
 
 ### Add counter to GitHub profile
 
